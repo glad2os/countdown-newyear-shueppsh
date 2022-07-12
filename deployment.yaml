@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: nodejs
-          image: glad2os/patay-development:latest
+          image: glad2os/shueppsh:latest
           imagePullPolicy: Always
           env:
             - name: PORT
